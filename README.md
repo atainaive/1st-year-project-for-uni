@@ -1,2 +1,5 @@
 # 1st-year-project-for-uni
-This is CourseWork 
+
+CourseWork
+
+Super Advanced Calculator, which can calculate a lot of stuff using OOP principles. Project is super simple.
